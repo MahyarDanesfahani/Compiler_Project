@@ -1,0 +1,15 @@
+state,letter,digit,+,=,(,),whitespace,other
+q0,q1,q2,q3,q4,q5,q6,q0,qerr
+q1,q1,q1,qerr,qerr,qerr,qerr,qaccept_id,qerr
+q2,qerr,q2,qerr,qerr,qerr,qerr,qaccept_int,qerr
+q3,qerr,qerr,qerr,qerr,qerr,qerr,qaccept_plus,qerr
+q4,qerr,qerr,qerr,qerr,qerr,qerr,qaccept_equal,qerr
+q5,qerr,qerr,qerr,qerr,qerr,qerr,qaccept_lparen,qerr
+q6,qerr,qerr,qerr,qerr,qerr,qerr,qaccept_rparen,qerr
+qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr
+qaccept_id,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr
+qaccept_int,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr
+qaccept_plus,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr
+qaccept_equal,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr
+qaccept_lparen,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr
+qaccept_rparen,qerr,qerr,qerr,qerr,qerr,qerr,qerr,qerr

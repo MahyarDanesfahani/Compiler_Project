@@ -1,0 +1,4 @@
+int valid = 1;
+@ invalid;
+/* comments are ignored */
+string text = "still scanned";

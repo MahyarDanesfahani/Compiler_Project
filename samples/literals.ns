@@ -1,0 +1,5 @@
+float rate = 2.5e+1;
+bool enabled = true;
+char grade = 'A';
+string message = "NovaScript+";
+int mask = 0xFF;
